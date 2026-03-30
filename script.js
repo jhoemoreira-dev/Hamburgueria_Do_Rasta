@@ -183,7 +183,7 @@ bebidas.forEach(bebida => {
 
 
 function pedir(nome){
-    let numero = "5581999999999"; // coloque seu número aqui
+    let numero = "5581991321167"; // coloque seu número aqui
     let mensagem = `Olá, quero pedir o ${nome}`;
     let url = `https://wa.me/${numero}?text=${encodeURIComponent(mensagem)}`;
     window.open(url, "_blank");
