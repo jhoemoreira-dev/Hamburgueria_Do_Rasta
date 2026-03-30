@@ -1,6 +1,6 @@
 const artesanais = [
     {
-        nome: "Rasta Burguer",
+        nome: "Rasta Burger",
         descricao: "Pão || Hamburguer Artesanal 100g || Queijo Coalho || Alface || Tomate || Cebola Caramelizada || Molho da Casa",
         preco: "R$ 15,00"
     },
@@ -28,7 +28,7 @@ const industrializados = [
         preco: "R$ 12,00"
     },
     {
-        nome: "Egg Burguer",
+        nome: "Egg Burger",
         descricao: "Pão || Hambúrguer Industrializado || Ovo || Queijo Mussarela || Alface || Tomate || Cebola Caramelizada || Maionese Caseira",
         preco: "R$ 14,00"
     },
@@ -38,7 +38,7 @@ const industrializados = [
         preco: "R$ 18,00"
     },
     {
-        nome: "Fator Burguer",
+        nome: "Fator Burger",
         descricao: "Pão || Hambúrguer Industrializado || Queijo Mussarela || Ovo || Salsicha || Bacon || Alface  || Tomate || Cebola Caramelizada || Maionese Caseira",
         preco: "R$ 20,00"
 
